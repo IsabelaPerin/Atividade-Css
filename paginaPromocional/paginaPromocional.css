@@ -1,0 +1,119 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #dbdbdb;
+}
+
+header {
+    background-color: #3F0240;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px 20px 15px;
+    text-align: center;
+    word-spacing: 15px;
+}
+
+#id{
+    width: 50px;
+    height: 50px;
+}
+
+
+#logoloja {
+    background-image: url(https://www.google.com/search?sca_esv=1efc9fab49f4674d&sca_upv=1&sxsrf=ADLYWIJ8HF6VhftMXmp9biQnW0FqI18VFg:1726948401939&q=disco+icon&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTtShVNbk-60xlcGTvYzJ-DKSTGtJjS2FjB5pmTql0ubR5COwup-84DRI4TBMTyGTZvR2wQNNUxZFITGP9w-kUjoQPMqsR8Q2-ZsQRgRfDfX4x0xEps3t3ZHuMPR57n6eA5sF54kQTNPD1yvyYTtaNUtyQONvHfurshD6Zo_ZeQJhdK9-Kg&sa=X&ved=2ahUKEwif2auQ6NSIAxXPFLkGHbZ5E7IQtKgLegQIEhAB&biw=1366&bih=633&dpr=1#vhid=ZufK52cm6mUgQM&vssid=mosaic);
+    width: 60px;
+    text-align: left; 
+}
+
+#nomedaloja {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+main{
+    padding: 10px;
+    margin: 10px;
+    background-color: #e5e1e1;
+}
+
+h2{
+    color: black;
+}
+
+nav, a {
+    color: white;
+    font-weight: 900;
+}
+
+.compreaqui {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.discos {
+    background-color: #b5b1b1;
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 20px;
+    padding: 15px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+.discos img {
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+.discos p {
+    font-size: 1em;
+    color: #313131;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: #a49fa6;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #24963d;
+}
+
+article{
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #604061;
+    color: #ffffff;
+    border: 30px 50px;
+    border-radius: 10px;
+}
+
+.imagem{
+    border-radius: 20px;
+    text-align: left;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #3F0240; 
+    color:  #000000; 
+    text-align: center;
+    padding: 15px;
+}
